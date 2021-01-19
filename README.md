@@ -12,5 +12,6 @@ And I am blogging about Artificial Intelligence. You can follow from this addres
 - 💬 Ask me about C, Python, SQL, TensorFlow, PyTorch, Keras, Artificial Intelligence, Machine Learning Methods, Pandas, Scikit-learn, Matplotlib, CNN, RNN, LSTM artificial neural network architectures, NLP/Image-Pattern Recognition,Sentiment Analysis
 - 📫 How to reach me: eliff.celikel@gmail.com
 - 😄 
-- ⚡ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliffyildirim1)](https://github.com/anuraghazra/github-readme-stats)
--->
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliffyildirim1)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
