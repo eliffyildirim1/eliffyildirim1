@@ -2,7 +2,7 @@
 
 M.Sc. Student and Data Science Researcher 🪐
 
-I'm Elif from Turkey 🌸I graduated from Karabük University Computer Engineering Department in 2019 as an honor student.  I'm doing my master's degree in Computer Engineering at Karabuk University. I had the opportunity to carry out projects in the field of applied machine learning on data collection, analysis, data visualization, statistical operations and training-testing. The projects I have done are available in my github repo.  ⚡ 
+I'm Elif from Turkey 🌸I'm doing my master's degree in Computer Engineering. I have developed projects in the field of applied machine learning on data collection, analysis, data visualization, statistical operations and training-testing..  ⚡ 
 
 And I am blogging about Artificial Intelligence. You can follow from this address at https://eliffyildirim1.medium.com/ 💥
 - 🔭 I’m currently working on Deep Learning and Machine Learning
