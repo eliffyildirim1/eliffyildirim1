@@ -14,3 +14,4 @@ I'm Elif from Turkey 🌸I'm doing my master's degree in Computer Engineering. I
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eliffyildirim1&show_icons=true&theme=radical)
 
 
+https://simpleicons.org/icons/twitter.svg
